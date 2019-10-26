@@ -14,3 +14,5 @@ nodemon app
 npm install
 
 npm start
+
+# Graphiql is activated. localhost:3000 acts like postman.
