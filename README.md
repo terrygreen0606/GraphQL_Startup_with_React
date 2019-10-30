@@ -16,3 +16,7 @@ npm install
 npm start
 
 # Graphiql is activated. localhost:3000 acts like postman.
+
+This project mainly deals with how to use graphql with mernstack projects.
+
+This is only a project to show the basics of graphql.
