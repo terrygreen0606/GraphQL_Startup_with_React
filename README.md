@@ -20,3 +20,5 @@ npm start
 This project mainly deals with how to use graphql with mernstack projects.
 
 This is only a project to show the basics of graphql.
+
+It's just a boilerplate for React and Graphql.
